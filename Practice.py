@@ -12,4 +12,6 @@ def get_passed():
         return f"{passed} passed the exam!"
     else:
         return 'None passed the exam.'
+
+
 print(get_passed())
